@@ -1,4 +1,4 @@
-# Challenge TelecomX Parte 2 AluraLatam
+# Challenge TelecomX Parte 2 📡🛰️
 
 ## Desafío de la formación de Estadísticas & Machine Learning de Alura LATAM & Oracle
 ![aluraoracle](https://github.com/user-attachments/assets/7c4b4d42-5160-4309-94c5-56d8a8d4be5c)
