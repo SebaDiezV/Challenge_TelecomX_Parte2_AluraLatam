@@ -10,6 +10,12 @@ La empresa Telecom X en base al primer análisis de evasión de clientes, a enca
 
 La empresa quiere anticiparse al problema de la cancelación, y se debe construir un pipeline robusto para esta etapa inicial de modelado.
 
+## Versiones de proyecto 📝
+Se han creado dos versiones del Jupyter Notebook del proyecto, se realizan los siguientes cambios entre la versión 1 y 2:
+  - No se realiza **Balanceo de Clases** después de la separación de datos.
+  - No se realiza **Normalización o Estandarización** después de la separación de datos.
+  - Se utiliza **Pipeline** en combinación con **GridSearchCV**, aplicando oversampling en el entrenamineto de los modelo de Machine Learning y buscando la mejor combinación de hiperparámetros para el modelo.
+  
 ## Aspectos a evaluar en el análisis :bar_chart:
 - Preparación de los Datos
   - Extracción de archivo tratado
@@ -39,5 +45,8 @@ La empresa quiere anticiparse al problema de la cancelación, y se debe construi
 - Google Colaboratory: Jupyter Notebook :notebook:
 
 ## Modo de visualización 💻
-Para una mejor visualización del archivo Jupyter, seleccionar el botón "Open in Colab" que se encuentra al principio del archivo para abrir a través de Google Colaboratory o acceder del siguiente enlace:
-https://colab.research.google.com/github/SebaDiezV/Challenge_TelecomX_Parte2_AluraLatam/blob/main/TelecomX_Parte_2.ipynb
+Para una mejor visualización del archivo Jupyter, seleccionar el botón "Open in Colab" que se encuentra al principio del archivo para abrir a través de Google Colaboratory o acceder del siguiente enlace:  
+Versión 1:  
+https://colab.research.google.com/github/SebaDiezV/Challenge_TelecomX_Parte2_AluraLatam/blob/main/TelecomX_Parte_2.ipynb  
+Versión 2:  
+https://colab.research.google.com/github/SebaDiezV/Challenge_TelecomX_Parte2_AluraLatam/blob/main/TelecomX_Parte_2_Ver2.ipynb
